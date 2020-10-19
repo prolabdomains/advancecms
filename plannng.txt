@@ -1,0 +1,103 @@
+The 5 Phases of Web Application Development
+==========================================
+
+1. Discovery Process
+=====================
+Inspiration and deciding features to steer planning and organization
+
+2. Design
+====================
+Creating wireframes and then procced to full design mockups
+
+3. Code and Development
+=========================
+Implementing the designs and features set forth in phase 1 & 2.
+Writing the actual code to bring them to life.
+
+4. QA
+========================
+Testing and quality assurance
+
+5. Deployment
+======================
+Moving code to stating sites and then to the live site.
+
+Technology Stack Used
+======================
+JS, GIT. SASS, VUE, JQUERY, LARAVEL, BOOTSTRAP, GULP, ADOBE XD
+
+=============================================================================
+
+Discovery / Idea Dump
+===========================
+
+Main Features:
+-------------
+Blog Post
+Show Videos from Youtube
+    - Unique to the website
+Discussion/Forum
+Share Resources(downloads, coupon codes)
+Digg/Reddit style posts
+
+Technology Stack
+------------------
+Lavavel
+Vue.js components and widgets
+Ajax components(Axios)
+Sass
+Apache/Nginx, Digital Ocean
+ESP (SES, Sparkpost)
+
+Information Architecture (Website Organization)
+---------------------------------------------
+Learn
+    - Courses/Series
+    - Blog posts
+    - Community Posts
+Discussion
+    - Forums
+    - Vote Upcoming
+Share
+    - Reddit Style Posts(share links)
+    - Resources(Coupon Code/Download)
+
+Learn Section
+------------------
+Video Posts and Text Posts
+Share Posts on social media
+Easy Dynamc organization of posts
+Easy Writing
+    - Markdown
+    - Some sort of WYSIWYG
+Each video, I want support or forums underneath
+
+
+
+============================
+SCOPE OF WORK
+
+Discovery Phase
+    - Idea Dump
+    - Creative Brief
+    - Scope of Work
+Design Phase
+    - wireframes
+    - Design
+    - Touch Up/Revisions
+    - Database Architecture
+Development Phase
+    - Homepage
+    - Blog Section
+    - Forum Section
+    - Sharing/Resources Section
+    - Miscellanous Pages
+        - 404 Page
+        - 500 error
+        - Login page
+        - Contact page
+QA/Testing
+    - Send a revision to QA
+    - QA will submit bugs
+    - Developers will fix and create new revision
+Deployment
